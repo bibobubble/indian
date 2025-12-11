@@ -1,90 +1,75 @@
 # indian
+# README – Study 1: Qualitative Research Component
 
-
-# **README for Qualitative Research**
-
-*(Short, clean, GitHub-friendly)*
-
-## **1. Project Overview**
-
-This repository contains the qualitative component of the study titled **“__________”**.
-The qualitative work explores participants’ experiences, perceptions, and contextual factors related to **__________**.
+### HelloFresh & International Indian Students in the UK
 
 ---
 
-## **2. Research Questions**
+## 1. Overview
 
-* **RQ1:** …
-* **RQ2:** …
-* **RQ3:** …
+This repository contains the full **qualitative component** of our Study in a mixed-methods project investigating how HelloFresh can adapt its design, product, and communication strategies to attract and retain **international Indian students in the UK**.
 
----
+The qualitative study explores:
 
-## **3. Data Description**
+-Current and former users’ motivations, satisfaction drivers, and perceptions
 
-* **Method:** Interviews / focus groups / open-ended survey responses
-* **Participants:** N = __ (basic description only)
-* **Data Format:**
+-Non-users’ barriers, cultural expectations, and unmet needs
 
-  * `/transcripts/` – anonymised interview transcripts
-  * `/codes/` – codebook, coding structure
-  * `/themes/` – thematic summaries & matrices
+-Authenticity, convenience, pricing, and student-life constraints
 
-> *All data has been anonymised in accordance with ethical guidelines.*
+-Actionable improvements for service design, meal options, and onboarding
 
----
+Findings from this study provide the conceptual groundwork for the subsequent quantitative phase.
 
-## **4. Analysis Approach**
-
-We used a qualitative thematic analysis process based on:
-
-1. Familiarisation
-2. Initial coding
-3. Developing themes
-4. Reviewing and refining themes
-5. Synthesising insights
-
-Tools used (edit as needed):
-
-* NVivo / Atlas.ti / manual coding
-* Excel / Miro for sorting and clustering codes
-
----
-
-## **5. Repository Structure**
+## Repository Structure
 
 ```
-/transcripts/        Anonymised interview or focus group transcripts  
-/codebook/           Definitions of codes and coding rules  
-/coding/             Coded segments or exported NVivo files  
-/themes/             Theme summaries, diagrams, matrices  
-/notes/              Research memos or reflections  
-README.md            This file
+/f4/                         F4Analyse project files for each participant
+│
+├── Ishaan.f4project：
+       https://drive.google.com/drive/folders/1QZLxitj6zCfpxcHzecaG7oRLQemmcD_m?usp=sharing
+├── Lisa Interview (1).f4project：
+       https://drive.google.com/file/d/1QdvVtzSQlNJFMZao-8fJwpWnXyPlio-l/view?usp=sharing
+├── Tanishq Interview.f4project：
+       https://drive.google.com/file/d/1NbDjVgZwxlApx3pP1gU-6WEXLD4H8rl2/view?usp=sharing
+├── Trudy.f4project：
+       https://drive.google.com/file/d/1ZivnJHLNrLLnrzV06nv0fNkKJK9Sf_Qg/view?usp=sharing
+└── Vishwa 1.f4project：
+       https://drive.google.com/file/d/1IGZ1OvMliYkR_aPa4s-z_OQBL2_0Nw9s/view?usp=sharing
+
+/transcripts/                Raw transcripts + first-cycle coding
+│
+├── First Cycle Coding for Lisa.docx：
+       https://docs.google.com/document/d/1lefc3EmLFcm4Us2q7CbjT5ZLJiYkQDkU/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true
+├── Interview with Trudy (1).docx：
+       https://docs.google.com/document/d/1HIzfUW1UB8taEy-ZiJc92fFZimaTgc8c/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true
+├── Interview-Tanishq.txt：
+       https://drive.google.com/file/d/1BfuIx3KESqCA32meGZ4H_T7IZjye3XOG/view?usp=sharing
+└── newInterview-Ishaan.docx：
+       https://docs.google.com/document/d/1jDjEqfB6cpTNQaX9qH7HOROLNMPpWqaE/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true
+
+Full qualitative write-up (Open → Focused → Theoretical Coding)
+报告部分（含 3_cycle_coding）.docx:
+       https://docs.google.com/document/d/1ubrhFTSKpmewwRo0jQQyQKg6jSYhEcP-/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true      
+
+Combined raw + latent codes for all participants
+所有人的 code 汇总.docx：
+       https://docs.google.com/document/d/1e23U91apOMSoFmFaUf0uNPKMi2xy12gQ/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true                
 ```
 
 ---
 
-## **6. How to Use This Repository**
+## 2. How to Use This Repository
 
-* Start by reading `/codebook/codebook.pdf` to understand the coding framework.
-* Review `/coding/` files for coded segments.
-* Explore `/themes/` to see how codes were synthesised into final insights.
-
----
-
-## **7. Ethical Considerations**
-
-* All identifiable information has been removed.
-* Data is stored confidentially.
-* Not to be shared outside the research team.
+1. Start with `/transcripts` for raw data and first-cycle codes.
+2. Open any `.f4project` file in **F4Analyse** to view coding structures.
+3. Refer to the consolidated documents for:
+   -Three-cycle coding
+   -Aggregated categories
+   -Mid-level themes
+4. Use this repository alongside the main report to understand the qualitative foundations of our Study.
 
 ---
 
-## **8. Contact**
-
-For questions about this qualitative dataset, contact:
-**Name, role, institutional email**
-
----
 
 
