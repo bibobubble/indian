@@ -64,10 +64,31 @@ Combined raw + latent codes for all participants
 1. Start with `/transcripts` for raw data and first-cycle codes.
 2. Open any `.f4project` file in **F4Analyse** to view coding structures.
 3. Refer to the consolidated documents for:
-   -Three-cycle coding (open → focused → theoretical)
-   -Aggregated categories (Second-cycle coding)
-   -Mid-level themes (Third-cycle theoretical coding)
-4. Use this repository alongside the main report to understand the qualitative foundations of our Study.
+   Three-cycle coding (open → focused → theoretical)
+      -报告部分（含 3_cycle_coding）.docx
+         https://docs.google.com/document/d/1ubrhFTSKpmewwRo0jQQyQKg6jSYhEcP-/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true 
+
+      -所有人的 code 汇总.docx
+         https://docs.google.com/document/d/1e23U91apOMSoFmFaUf0uNPKMi2xy12gQ/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true     
+
+      -f4/*.f4project
+         https://drive.google.com/drive/folders/1QZLxitj6zCfpxcHzecaG7oRLQemmcD_m?usp=sharing
+   
+   Aggregated categories (Second-cycle coding)
+      -所有人的 code 汇总.docx
+         https://docs.google.com/document/d/1e23U91apOMSoFmFaUf0uNPKMi2xy12gQ/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true       
+      -报告部分（含 3_cycle_coding）.docx
+         https://docs.google.com/document/d/1ubrhFTSKpmewwRo0jQQyQKg6jSYhEcP-/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true     
+   
+   Mid-level themes (Third-cycle theoretical coding)
+      -报告部分（含 3_cycle_coding）.docx
+         https://docs.google.com/document/d/1ubrhFTSKpmewwRo0jQQyQKg6jSYhEcP-/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true      
+      -所有人的 code 汇总.docx
+         https://docs.google.com/document/d/1e23U91apOMSoFmFaUf0uNPKMi2xy12gQ/edit?usp=sharing&ouid=110408321673251354390&rtpof=true&sd=true       
+      -f4/*.f4project
+         https://drive.google.com/drive/folders/1QZLxitj6zCfpxcHzecaG7oRLQemmcD_m?usp=sharing
+   
+5. Use this repository alongside the main report to understand the qualitative foundations of our Study.
 
 ---
 
