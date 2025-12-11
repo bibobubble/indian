@@ -64,9 +64,9 @@ Combined raw + latent codes for all participants
 1. Start with `/transcripts` for raw data and first-cycle codes.
 2. Open any `.f4project` file in **F4Analyse** to view coding structures.
 3. Refer to the consolidated documents for:
-   -Three-cycle coding
-   -Aggregated categories
-   -Mid-level themes
+   -Three-cycle coding (open → focused → theoretical)
+   -Aggregated categories (Second-cycle coding)
+   -Mid-level themes (Third-cycle theoretical coding)
 4. Use this repository alongside the main report to understand the qualitative foundations of our Study.
 
 ---
